@@ -1,11 +1,9 @@
---min household income for each state in the census_metro_data
-select * from census_metro_data cmd 
-select state, min(median_hh_income) as min_income from census_metro_data cmd2
-group by state 
-order by min_income desc;
+--- Hey Karim, great work! 
+--- Two things: 
+--- 1. Make sure you put the answers as a comment after your sql answers 
+--- 2. In the last question, you needed the proportion, so it should have been sum(population_age_70_74 + population_age_75_79)/sum(population)
 
--- Unit 2 Week 1 SQL Project
-select * from public.census_metro_data cmd;
+--- 3.5/4 = 88%
 
 --1.Which metro area in the country has the highest average household income in the US?
  select metro_city, avg(median_hh_income) 

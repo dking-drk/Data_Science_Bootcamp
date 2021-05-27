@@ -1,3 +1,13 @@
+--- Hey Karim, 
+--- Couple of things on this homework. 
+--- 1. For question 1 and 2, you definitely could have found the answer with those queries but you didn't write the answers so I don't know if you did. 
+--- 	So I can only give you havf credit on those two answers. 
+--- 2. The 3rd question would be right but you didn't include campaign. I have to give you half credit on that as well. 
+--- 3. I assume you didn't answer the 4th question because you didn't know what CPC is? If that's the case, cpc is cost per convesions so you would want to 
+--- 	do sum(cost)/sum(conversions). You can email me that sql to get full credit on that last question. 
+
+--- Correct Answers: 2/4 50%
+
 --In this project you are an analyst for company that does corporate office renovation, clean up, and organization.
 --The Google marketing leader comes to you and wants to know what the most expansive ad campaigns are by platform and if those campaigns are efficient on a cost/conversion (cpc) basis.
 
